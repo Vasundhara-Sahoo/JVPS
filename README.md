@@ -11,7 +11,7 @@ Team Member: Pujita Dora,
 
 ## 📊 Project Presentation
 View our project deck:  
-👉 [Presentation Link]
+👉 [Presentation Link](https://github.com/Vasundhara-Sahoo/JVPS)
 
 ---
 
