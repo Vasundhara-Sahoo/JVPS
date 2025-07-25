@@ -2,12 +2,10 @@
 
 ## 👥 Team Information 
 Team ID: Team(sc1)3_12
-Team Member: Pujita Dora, Vasundhara Sahoo, Jaydeep Mahanta, Sabindra Sabar
----
-
-## 📽️ Demo Video
-Watch a short walkthrough of our solution:  
-👉 [Demo Video Link]
+Team Member: Pujita Dora, 
+             Vasundhara Sahoo,
+             Jaydeep Mahanta,
+             Sabindra Sabar
 
 ---
 
