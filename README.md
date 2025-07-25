@@ -36,12 +36,5 @@ The chatbot is multilingual, lightweight, and mobile-friendly — designed for a
 
 ---
 
-## 🛠️ How to Run the Project
-
-### 🔹 Requirements
-- Python 3.x
-- Flask
-- scikit-learn
-- pickle
 
 
